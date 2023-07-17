@@ -78,3 +78,5 @@
 
 
 18. An example scenario where KNN can be applied is customer segmentation based on purchasing behavior. By using features related to customer purchase history, demographics, or preferences, KNN can be used to classify customers into different segments based on their similarities. This can help businesses gain insights into customer behavior, tailor marketing strategies, or make personalized recommendations.
+
+
